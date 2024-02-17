@@ -17,5 +17,5 @@ I am Matej, a student from the Czech Republic, currently pursuing my studies at 
 ## Stats
 ![matej-parizek's GitHub stats](https://github-readme-stats.vercel.app/api?username=matej-parizek&show_icons=true&theme=dracula&count_private=true)
 
-## top used languages 
+## Most used languages 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matej-parizek&layout=compact&hide=css,html,handlebars)
