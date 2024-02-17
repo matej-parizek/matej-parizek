@@ -14,9 +14,9 @@ I am Matej, a student from the Czech Republic, currently pursuing my studies at 
    <img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" height="50"/>
 </p>
 
-<!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/matej511)  -->
+<!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/matej511)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matej511)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matej511)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 
