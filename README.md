@@ -1,6 +1,6 @@
 # Matěj Pařízek
 
-I'm Matej from Czech, and now I am studing Czech Technical Univerzity in the Prague. My specialization is Software engeneering. Realy enjoy learning languages and frameworks like Java and Kotlin, as well Python and C/C++.
+I am Matej, a student from the Czech Republic, currently pursuing my studies at the Czech Technical University in Prague. My area of expertise is Software Engineering, and I am particularly passionate about mastering programming languages and frameworks such as Java, Kotlin, Python, and C/C++. I am deeply committed to continuous learning and honing my skills in these areas.
 
 ## Skills and Expirence:
 <p align="left">
@@ -14,7 +14,7 @@ I'm Matej from Czech, and now I am studing Czech Technical Univerzity in the Pra
    <img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" height="50"/>
 </p>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/matej511)  
+<!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/matej511)  -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matej511)](https://github.com/anuraghazra/github-readme-stats)
 
