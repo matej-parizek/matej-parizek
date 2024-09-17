@@ -13,9 +13,3 @@ I am Matej, a student from the Czech Republic, currently pursuing my studies at 
    <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="Html" height="50"/>
    <img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" height="50"/>
 </p>
-
-## Stats
-![matej-parizek's GitHub stats](https://github-readme-stats.vercel.app/api?username=matej-parizek&show_icons=true&theme=dracula&count_private=true)
-
-## Most used languages 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matej-parizek&layout=compact&hide=css,html,handlebars)
